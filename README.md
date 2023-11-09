@@ -99,7 +99,7 @@ Folgende Hauptprinzipien kommen dabei zur Anwendung:
 
 Ausführliche Version der SemVer finden Sie hier: [https://semver.org](https://semver.org)
 
-## Qualitätsziele
+## Qualitätawdawdsziele
 
 In der folgenden Tabelle werden die priorisierten Qualitäten von KoliBri aufgelistet:
 
